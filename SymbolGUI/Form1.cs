@@ -226,7 +226,7 @@ namespace SymbolGUI
             }
             else
             {
-                Clipboard.SetText("SGUI Error");
+                Clipboard.SetText("Error");
             }
         }
     }
